@@ -1,0 +1,122 @@
+export default [
+	{
+		rank: 1,
+		cover: 'shawshank.jpg',
+		title: 'Vykoupení z věznice Shawshank',
+		originalTitle: 'The Shawshank Redemption',
+		genre: 'Drama / Krimi',
+		country: 'USA',
+		year: 1994,
+		length: 142,
+		director: 'Frank Darabont',
+		description: 'Strach dělá z lidí vězně. Naděje jim dává křídla. Film natočený podle novely Stephena Kinga. Strhující příběh o přátelství, naději a moudrosti s velmi výraznými hereckými i charakterovými osobnostmi. Andy Dufresne (Tim Robbins) přichází do vězení v Shawshanku jako nový vězeň podezřelý z vraždy. Spřátelí se s doživotně odsouzeným Redem (Morgan Freeman) a společně se snaží přežít v nelidském prostředí vězeňského systému. Odmítají upadnout do rezignace a dodávají naději sobě i spoluvězňům. Film získal mnoho ocenění filmové kritiky a díky svému hluboce humánnímu poselství, skvělým hereckým výkonům a působivému zpracování byl 7 x nominován na Oscara - za nejlepší film, herce v hlavní roli (Morgan Freeman), nejlepší scénář, kameru, hudbu, střih a zvuk.'
+	},
+	{
+		rank: 2,
+		cover: 'forrest-gump.jpg',
+		title: 'Forrest Gump',
+		originalTitle: 'Forrest Gump',
+		genre: 'Drama / Komedie / Romantický',
+		country: 'USA',
+		year: 1994,
+		length: 142,
+		director: 'Robert Zemeckis',
+		description: 'Zemeckisův film je brilantním shrnutím dosavadních režisérových poznatků o možnostech "comicsového" vyprávění. Formálně i obsahově nejméně konvenční z jeho snímků přesvědčuje komediálními gagy i naléhavě patetickým tónem. Jeho hrdinou je prosťáček Forrest Gump, typický obyčejný muž, který od dětství dělal, co se mu řeklo. Do života si tak odnesl několik ponaučení své pečlivé maminky a osvědčené pravidlo, jež se mu hodí mnohokrát v nejrůznějších situacích: Když se dostaneš do problémů, utíkej. Forrest proutíká školou, jako hráč amerického fotbalu i univerzitou, potom peklem vietnamské války a zoufalstvím nad matčinou smrtí. Vždycky je totiž někdo nebo něco, co po něm skutečně či obrazně "hází kameny". Nakonec však Forrest poznává, že jsou i jiná řešení situací než útěk. Svůj život spojuje s kamarádkou ze školy Jenny, která pro něj zůstane provždycky jedinou láskou, s přítelem z vojny, černochem Bubbou, který dá směr jeho úvahám o lovu krevet a s poručíkem Taylorem, jemuž ve Vietnamu zachrání život. Forrestova životní pouť od 50. do 80. let je koncipovaná jako totálně "bezelstné" vyprávění hrdiny, neschopného obecnějšího hodnocení situace. Forrest jako sportovec i jako válečný hrdina se setkává se slavnými lidmi, které nakonec vždycky někdo zastřelí (J. F. Kennedy, J. Lennon). Také jeho bližní umírají, ale on sám zůstává. Empiricky se dopracovává od impulsivního útěku před životem k úvahám o lidském osudu a o Bohu. Soukromý hrdinův osud zároveň postihuje třicet let poválečných amerických dějin.'
+	},
+	{
+		rank: 3,
+		cover: 'green-mile.jpg',
+		title: 'Zelená míle',
+		originalTitle: 'The Green Mile',
+		genre: 'Drama / Mysteriózní / Krimi',
+		country: 'USA',
+		year: 1999,
+		length: 188,
+		director: 'Frank Darabont',
+		description: 'Na začátku příběhu se potkáme se starým mužem Paulem Edgecombem (Dabbs Greer). Žije v domově s pečovatelskou službou a právě se dojatě dívá na starý film s Fredem Astairem. Snad až příliš dojatě, protože jedna ze sester ho musí zkontrolovat, když slyší všechny ty vzlyky. Paul je tak naměkko, že jí začne vypravovat svůj příběh starý 60 let, který ještě nikomu nevypravoval. Kolem roku 1935 v Louisianě, mladý Paul (teď už Tom Hanks) pracuje jako dozorce ve vězení pro těžké zločince, kteří jsou odsud posíláni na smrt. Paul není jen "zaměstnancem", ale bystrým pozorovatelem, který citlivě vnímá rázovité postavy těžkých zločinců i jejich osudy. Setkává se například s s černým obrem Johnem, který má ruce jako lopaty a je obviněn z vraždy dvou dětí. Nemůže uvěřit, že člověk, který se bojí spát potmě by byl schopen tak hrůzného činu. Je tu také hluboce věřící Arlen, a bláznivý psychopat zvaný Divoký Bill, ale je tu také ta hrůzostrašná chodba, natřená na zeleno, které všichni říkají "Zelená míle", je to cesta, na konci které čeká smrt, pokud se nestane zázrak.'
+	},
+	{
+		rank: 4,
+		cover: 'cuckoo.jpg',
+		title: 'Přelet nad kukaččím hnízdem',
+		originalTitle: 'One Flew Over the Cuckoo\'s Nest',
+		genre: 'Drama',
+		country: 'USA',
+		year: 1975,
+		length: 133 ,
+		director: 'Miloš Forman',
+		description: 'Když svobodomyslný malý podvodníček Randle P. McMurphy (Jack Nicholson) přichází do státní psychiatrické nemocnice, jeho nakažlivý odpor k disciplíně otřese rutinou celého zařízení. On je jednou stranou nastávající války. Uhlazená, chladně monstrózní sestra Ratchedová (Louise Fletcher) druhou. V sázce je osud všech pacientů na oddělení... Tato elektrizující adaptace bestselleru Kena Keseyho získala všech pět hlavních Oscarů za rok 1975: Nejlepší film (produkce Saul Zaentz a Michael Douglas), herec (Nicholson), herečka (Fletcher), režisér (Miloš Forman) a adaptovaný scénář (Lawrence Hauben a Bo Goldman). Divoký, spalující film s vynikajícím hereckým obsazením, čítajícím mj. Brada Dourifa, Dannyho DeVita a debutujícího Christophera Lloyda, si je plně zaslouží.'
+	},
+	{
+		rank: 5,
+		cover: 'seven.jpg',
+		title: 'Sedm',
+		originalTitle: 'Se7en',
+		genre: 'Drama / Krimi / Mysteriózní / Psychologický / Thriller',
+		country: 'USA',
+		year: 1995,
+		length: 127,
+		director: 'David Fincher',
+		description: 'Dva policisté (Brad Pitt a Morgan Freeman) jsou na stopě geniálního vraha, zodpovědného za sérii děsivých vražd, jejichž oběti spojuje sedm smrtelných hříchů. V jedné z rolí tohoto kvalitního trhilleru, zasazeného do temného města nasáklého bolestí a zkázou, uvidíte také Gwyneth Paltrow. David Fincher (Klub rváčů, Zodiac, Podivuhodný případ Benjamina Buttona) s dokonalou znalostí našich nejhlubších obav pevně svírá otěže akce – fyzické, psychické i spirituální – neodvratně směřující k rozuzlení, které do hloubi otřese i tou nejzatvrzelejší duší.'
+	},
+	{
+		rank: 6,
+		cover: 'schindlers-list.png',
+		title: 'Schindlerův seznam',
+		originalTitle: 'Schindler\'s List',
+		genre: 'Drama / Historický / Životopisný',
+		country: 'USA',
+		year: 1993,
+		length: 195,
+		director: 'Steven Spielberg',
+		description: 'Hluboce šokující, nemilosrdné drama o noční můře holocaustu, založené na skutečných událostech. Na záchranu 1100 životů obětoval Oskar Schindler veškeré své jmění... Polský Krakov 1939. Židovská obec je vystavována stále se zvyšujícímu tlaku ze strany nacistů. Do této vřavy vstupuje obchodník Oskar Schindler, člen Nacistické strany, velký svůdník a muže vydělávající na válečném utrpení, který dokázal najít v sobě člověka a zachránit ty, kterým už zdánlivě nebylo pomoci... Film Stevena Spielberga je stěžejní dílo světové kinematografie a vítěz sedmi Oscarů, včetně ocenění za Nejlepší film roku a Nejlepší režii.'
+	},
+	{
+		rank: 7,
+		cover: 'godfather.jpg',
+		title: 'Kmotr',
+		originalTitle: 'The Godfather',
+		genre: 'Drama / Krimi',
+		country: 'USA',
+		year: 1972,
+		length: 175,
+		director: 'Francis Ford Coppola',
+		description: 'Gangsterské drama Kmotr, natočené podle stejnojmenného bestselleru Maria Puza, patří mezi přelomová díla tzv. Nového Hollywoodu, a to jak komerčně, tak umělecky. Příběh newyorské mafiánské rodiny Corleonů, jíž tvrdou rukou šéfuje starý don Vito (Marlon Brando), se odehrává v letech 1945 - 55 a zaznamenává prudký rozmach organizovaného zločinu po skončení druhé světové války. V epických, rozmáchlých obrazech před divákem ožívají osudy italsko-americké rodiny, jež svůj blahobyt založila na hazardu, prostituci, vydírání a zastrašování. Tehdy mladý režisér Francis Ford Coppola, který byl poněkud překvapivě pověřen společností Paramount realizací jednoho z jejích stěžejních projektů (své nepochybně sehrálo i jeho italsko-americké zázemí), musel redukovat některé motivy rozsáhlé předlohy, ovšem podařilo se mu věrně zachovat jejího ducha - přesný popis fungování zločinecké organizace, zachycení její hierarchie, začlenění do tehdejšího společenského vývoje i často kritizované zdůrazňování rodinné soudržnosti. Pevnou dramatickou stavbu scénáře (na němž Coppola spolupracoval s autorem předlohy) podpořilo i režijní ztvárnění, jež čerpalo především z klasických vypravěčských praktik hollywoodských děl 30. let (např. Jih proti Severu), okořeněných soudobým příklonem k realismu, zejména v zobrazování násilí a sexu. Snímek získal tři Oscary - za nejlepší film, scénář podle předlohy a mužský herecký výkon v hlavní roli (Marlon Brando, který svou cenu odmítl převzít).'
+	},
+	{
+		rank: 8,
+		cover: '12-angry-men.jpg',
+		title: 'Dvanáct rozhněvaných mužů',
+		originalTitle: 'Twelve Angry Men',
+		genre: 'Drama / Krimi',
+		country: 'USA',
+		year: 1957,
+		length: 96,
+		director: 'Sidney Lumet',
+		description: 'Dramatický příběh natočený původně jako televizní film, což ovlivnilo jeho výraz, který se zdánlivě vymyká filmové praxi, neboť se celý odehrává v průběhu devadesáti minut v uzavřené soudní síni. Dvanáct porotců má jednomyslně rozhodnout o vině či nevině mladého muže, který je obviněn z vraždy svého otce. Porotci jsou průměrní Američané s obyčejnými zájmy a zaměstnáním. V průběžném hlasování jedenáct hlasuje za vinu, jenom porotce číslo 8, architekt Davis, je proti. Vyslovuje vážné výhrady k průběhu soudního jednání a kritizuje i způsob šetření celého případu.\n\nScénář neklade důraz na to, zda je obžalovaný vinen nebo ne, je to spíš autorská úvaha o možnostech hájit své názory, o pochybnostech v soudní síni, o zodpovědnosti za vlastní výroky. V tomto smyslu film daleko přesahuje rámec vlastní zápletky a stává se zobecněným obrazem uspěchané civilizace. Realizační tým vytvořil nezvyklé dramatické napětí v omezených prostorových dimenzích, mistrovsky odhalil duševní pochody jednotlivých aktérů rokování poroty, kde sebemenší detail nabývá hodnoty symbolu. Lumetovy pečlivé kompozice a silný důraz na všechny repliky jsou téměř dokonalé. Vynikající scénář, vysoká realizační profesionalita a perfektně diferencované herecké výkony jednotlivých postav přispěly k vysoké a trvalé hodnotě tohoto nezvyklého díla. Za zmínku stojí, že porotce číslo 11 hrál Jiří Voskovec. Film byl v roce 1957 nominován na Oscara.'
+	},
+	{
+		rank: 9,
+		cover: 'intouchables.png',
+		title: 'Nedotknutelní',
+		originalTitle: 'Intouchables',
+		genre: 'Komedie / Drama / Životopisný',
+		country: 'Francie',
+		year: 2011,
+		length: 112,
+		director: 'Eric Toledano, Olivier Nakache',
+		description: 'Ochrnutý a bohatý aristokrat Philippe si za svého nového opatrovníka vybere Drisse, živelného mladíka z předměstí, kterého právě propustili z vězení. Jinými slovy - najde si na tuto práci tu nejméně vhodnou osobu. Podaří se jim však propojit nemožné: Vivaldiho a populární hudbu, serióznost a žoviální vtípky, luxusní obleky a tepláky. Bláznivým, zábavným, silným, neočekávaným a hlavně „nedotknutelným“, přesně takovým se stane jejich přátelství… Komedie s dramatickou zápletkou o tom, že ani od krku po prsty u nohou nepohyblivý člověk odkázaný na pomoc druhých, nemusí ztratit smysl života. A o tom, že i nejméně pravděpodobné spojení melancholického multimilionáře a extrovertního recidivisty může humorně zapůsobit na diváka a může se z něj stát kasovní trhák.'
+	},
+	{
+		rank: 10,
+		cover: 'pelisky.jpg',
+		title: 'Pelíšky',
+		originalTitle: 'Pelíšky',
+		genre: 'Komedie / Drama',
+		country: 'Česko',
+		year: 1999,
+		length: 116,
+		director: 'Jan Hřebejk',
+		description: 'Příběhy jedné historické generace - stárnoucích rodičů, dospívající mládeže a malých dětí. Děj je zasazen do konce šedesátých let - podzim 67 až léto 68 s krátkým epilogem přesahujícím do let sedmdesátých. Pražská vilová čtvrť Hanspaulka, jemná poetika a humorná nadsázka jsou charakteristické pro mozaikové vyprávění paralelních životních osudů tří generací mužů a žen ve zvláštním období našich dějin v roce 1968.'
+	}
+];
